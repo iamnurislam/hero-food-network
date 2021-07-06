@@ -12,7 +12,7 @@ h3{
     text-align: center;
 }
 .name-color{
-    color: tomato;
+    color: rgb(175, 30, 30);
 }
 .make-flexible{
     display: flex;
@@ -34,7 +34,7 @@ h3{
     border-radius: 20px;
 }
 #up{
-    background-image: url(images/shapes/blue.jpg);
+    background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
 }
 p{
@@ -109,11 +109,12 @@ p{
     background-color: black;
 }
 footer{
-    background-color: peru;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    background-color: rgb(155, 101, 48);
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-top: 50px;
 }
 footer p{
     text-align: center;
+    font-size: x-large;
 }
