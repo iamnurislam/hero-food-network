@@ -96,10 +96,23 @@ p{
 #menu-3 img{
     border-radius: 15px;
 }
+#choosing-food{
+    padding-left: 45%;
+}
+#food-form{
+    background-color: floralwhite;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#last{
+    color: red;
+    background-color: black;
+}
 footer{
     background-color: peru;
     padding-top: 10px;
     padding-bottom: 10px;
+    margin-top: 50px;
 }
 footer p{
     text-align: center;
