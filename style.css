@@ -24,6 +24,7 @@ h3{
 }
 .div-side img{
     width: 100%;
+    margin-bottom: -3px;
 }
 .link-button{
     text-decoration: none;
@@ -36,6 +37,7 @@ h3{
 #up{
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 p{
     text-align: justify;
